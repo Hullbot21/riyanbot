@@ -672,7 +672,7 @@ return `
 ♲ *Dapat Informasi Lebih dulu akan Update, Nomor Bot Baru (Jika Terbanned), dan Lainnya*
 
 *Jika Tertarik,Kalian Bisa Bayar Melalui Metode Pembayaran di Bawah:*
-*Dana : 083153406515*
+*Dana : 089667090665*
 *Gopay : Qris*
 *Atau Gopay pada gambar diatas*
 
@@ -688,11 +688,11 @@ Di Sponsori Oleh *@0*
 }
 exports.infoowner = (prefix) => {
 return `
-Owner = wa.me/6283153406515
+Owner = wa.me/6289667090665
 
-YouTube = RIYAN BOTZ
+Instagram = Arifsh_21
 
-Grup Whatsapp = https://chat.whatsapp.com/L0vjqZyqm88F8MJAMB8lMn
+Grup Whatsapp = https://chat.whatsapp.com/KMi39dMimZtFJVhPlYb4fh
 
 Grup Whatsapp 2 = https://chat.whatsapp.com/IQUoZRVj2Tp6vHEhWqwRPg
 
