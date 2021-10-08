@@ -634,7 +634,7 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 *Jika ingin Sc ini harap hubungi owner kami*
 
 Owner  BOTZ:
-wa.me/6281916849086
+wa.me/6289667090665
 `
 }
 exports.infoMenu = (prefix) => {
